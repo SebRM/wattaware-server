@@ -1,0 +1,5 @@
+/config
+/connect.bash
+/deploy.bash
+/node_modules
+/package-lock.json
